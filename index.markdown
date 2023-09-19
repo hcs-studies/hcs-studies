@@ -4,8 +4,8 @@
 ---
 The app "HCS Studies," developed by the Mobile Security Group at Ruhr-University Bochum, is used for conducting scientific studies and surveys in the field of Human Centered Security and Usability. Participation in these surveys is free of charge.
 
-On this website you can get in touch with the developers and learn more about the [privacy policy](/priv_pol) and find the [Impressum](/impressum). 
+On this website you can get in touch with the developers and learn more about the [privacy policy](/priv_pol/) and find the [Impressum](/impressum/). 
 
-To contact the developers send an email to <mobsec-studies@rub.de> or use the contact [form](/form) below.
+To contact the developers send an email to <mobsec-studies@rub.de> or use the contact [form](/form/) below.
 
 
