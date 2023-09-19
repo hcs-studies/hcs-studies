@@ -6,6 +6,6 @@ The app "HCS Studies," developed by the Mobile Security Group at Ruhr-University
 
 On this website you can get in touch with the developers and learn more about the [privacy policy](./priv_pol/) and find the [Impressum](./impressum/). 
 
-To contact the developers send an email to <mobsec-studies@rub.de>.
+To contact the developers send an email to [mobsec-studies@rub.de](mailto:mobsec-studies@rub.de?subject=[HCS Studies]%20Inquiry%20HCS%20Studies)
 
 
