@@ -8,4 +8,11 @@ On this website you can get in touch with the developers and learn more about th
 
 To contact the developers send an email to [mobsec-studies@rub.de](mailto:mobsec-studies@rub.de?subject=[HCS Studies]%20Inquiry%20HCS%20Studies)
 
-
+<div style="width: 100%; overflow: hidden;">
+	<div style="text-align: center; float:left;">
+		<img src="/img/app_home.jpeg" alt="Screenshot of HCS Studies app's home screen" style="width: 50%;"/>
+	</div>
+	<div style="text-align: center; overflow: hidden;">
+		<img src="/img/app.png" alt="Screenshot of HCS Studies app's home screen" style="width: 70%; border: gray 1px solid; box-shadow: 5px 5px 5px"/>
+	</div>
+</div>
