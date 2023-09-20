@@ -10,9 +10,9 @@ To contact the developers send an email to [mobsec-studies@rub.de](mailto:mobsec
 
 <div style="width: 100%; overflow: hidden;">
 	<div style="text-align: center; float:left;">
-		<img src="/img/app_home.jpeg" alt="Screenshot of HCS Studies app's home screen" style="width: 50%;"/>
+		<img src="./img/app_home.jpeg" alt="Screenshot of HCS Studies app's home screen" style="width: 50%;"/>
 	</div>
 	<div style="text-align: center; overflow: hidden;">
-		<img src="/img/app.png" alt="Screenshot of HCS Studies app's home screen" style="width: 70%; border: gray 1px solid; box-shadow: 5px 5px 5px"/>
+		<img src="./img/app.png" alt="Screenshot of HCS Studies app's home screen" style="width: 70%; border: gray 1px solid; box-shadow: 5px 5px 5px"/>
 	</div>
 </div>
