@@ -40,9 +40,9 @@ Sofern weitere regionale oder nationale Gesetze zur Anwendung kommen, informiere
 ## Kontaktdaten des Verantwortlichen
 
 Sollten Sie Fragen zum Datenschutz oder zur Verarbeitung personenbezogener Daten haben, finden Sie nachfolgend die Kontaktdaten der verantwortlichen Person bzw. Stelle:
-* Mobile Security Group (MobSec), Ruhr-Universität Bochum
-* Marvin Kowalewski
-* mobsec-studies@rub.de
+* Anonymized (Anonymized), Anonymized
+* Anonymized Anonymized
+* anonymized-anonymized@anonymiz.ed
 
 
 ## Speicherdauer
